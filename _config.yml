@@ -1,2 +1,5 @@
 theme: jekyll-theme-hacker
 title: Welcome to my Github
+
+plugins:
+  - jekyll-seo-tag
