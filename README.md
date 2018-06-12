@@ -16,6 +16,7 @@
 * [Compiler for Pascal-like language](https://github.com/DanielFraser/Pascal-like-compiler)
 
 ## Java
+* [Perceptron and Naive Bayes](https://github.com/DanielFraser/Perceptron-and-Naive-Bayes)
 * [Truth table(Java)](https://DanielFraser.github.io/TruthTable/)
 * [Photo FXML](https://github.com/DanielFraser/PhotoFXML)
 
