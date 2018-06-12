@@ -21,7 +21,7 @@
 * [Photo FXML](https://github.com/DanielFraser/PhotoFXML)
 
 ## Android
-[Android Photo App](https://github.com/DanielFraser/AndroidPhotoApp)
+* [Android Photo App](https://github.com/DanielFraser/AndroidPhotoApp)
 
 ## JavaScript
 * [Truth table(JS)](https://DanielFraser.github.io/truthtablejs/)
