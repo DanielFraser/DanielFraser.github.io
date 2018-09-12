@@ -1,5 +1,8 @@
 # Projects
 
+## Ruby
+* [Chess](https://github.com/DanielFraser/Chess)
+
 ## C/C++
 * [String Sorter](https://github.com/DanielFraser/String-Sorter)
 * [Malloc and Free](https://github.com/DanielFraser/Malloc-and-Free)
